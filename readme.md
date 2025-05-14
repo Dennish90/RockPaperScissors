@@ -2,6 +2,8 @@
 
 A classic Rock, Paper, Scissors game built with a graphical interface using Java Swing.
 
+![Screenshot](printscreen.PNG)
+
 ## Features
 - Choose between Rock, Paper, or Scissors
 - The computer makes a random choice
@@ -32,6 +34,8 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 # Sten, sax, påse (Java GUI)
 
 Ett klassiskt sten, sax, påse-spel med grafiskt gränssnitt, byggt i Java med Swing.
+
+![Screenshot](printscreen.PNG)
 
 ## Funktioner
 - Välj mellan sten, sax eller påse
