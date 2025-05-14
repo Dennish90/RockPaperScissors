@@ -1,3 +1,5 @@
+[ENG](#rock-paper-scissors-java-gui) | [SV](#sten-sax-påse-java-gui)
+
 # Rock Paper Scissors (Java GUI)
 
 A classic Rock, Paper, Scissors game built with a graphical interface using Java Swing.
